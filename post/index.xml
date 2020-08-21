@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mytitle</title>
-    <link>https://example.com/post/</link>
+    <link>https://romeroarvistech.github.io/unicornchallenges.github.io/post/</link>
     <description>Recent content in Posts on mytitle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>My Name</copyright>
     <lastBuildDate>Fri, 21 Aug 2020 16:15:36 -0300</lastBuildDate>
     
-	<atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romeroarvistech.github.io/unicornchallenges.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://example.com/2020/08/21/welcome/</link>
+      <link>https://romeroarvistech.github.io/unicornchallenges.github.io/2020/08/21/welcome/</link>
       <pubDate>Fri, 21 Aug 2020 16:15:36 -0300</pubDate>
       
-      <guid>https://example.com/2020/08/21/welcome/</guid>
+      <guid>https://romeroarvistech.github.io/unicornchallenges.github.io/2020/08/21/welcome/</guid>
       <description>Bem Vindos Projetamos para falhar!
 A falha tem custo e tempo, assim como a oportunidade. Por isso trabalhamos com a certeza de que &amp;ldquo;quando&amp;rdquo; falhar, estaremos prontos para atuar!</description>
     </item>
